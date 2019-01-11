@@ -36,6 +36,9 @@ Some links _may_ be affiliate links - but their inclusion does not change my edi
 Where I got it from:  
 https://www.banggood.com/TEA5767-FM-Stereo-Radio-Module-76-108MHZ-For-Arduino-With-Antenna-p-1103142.html?p=FQ040729393382015118&utm_campaign=25129675&utm_content=3312
 
+Same module from AliExpress (longer shipping times but cheaper)  
+https://www.aliexpress.com/item/TEA5767-FM-Stereo-Radio-Module-for-76-108MHZ-With-Free-Cable-Antenna/32735797434.html?spm=2114.search0604.3.7.33f33816P3xiXj
+
 Small stereo amplfier kit including case and speakers (as shown in video)  
 https://www.banggood.com/Small-Amplifier-Two-Channel-Speaker-Audio-Kit-TDA2030-Mini-Electronic-DIY-Production-Parts-Assembly-p-1228863.html?p=FQ040729393382015118&utm_campaign=25129675&utm_content=3312
 
