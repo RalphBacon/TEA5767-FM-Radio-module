@@ -1,6 +1,6 @@
 # TEA5767 FM Radio module
 
-### This video is sponsored by https://www.PCBWway.com - PCB Prototype the Easy Way  
+### This video is sponsored by https://www.PCBWay.com - PCB Prototype the Easy Way  
 ### PCBWay will have Chinese New Year's holidays from Jan 30th to Feb 11th 2019.Pls schedule your orders earlier to avoid delay.
 
 **Why Buy Your Printed Circuit Boards From Us?**  
@@ -14,9 +14,9 @@
   * Factory Outlet PCBs with most competitive advantages  
   * Chief PCB Manufacturer Located in China  
 
-Connect this module to your Arduino (or Pi) via I2C for quality FM radio - a building block for a bigger project?
+Connect this module to your Arduino (or Pi) via **I2C** for quality FM radio - a building block for a bigger project?
 
-This simple-to-connect FM module delivers a very nice audio experience (as good as FM quality gets, I think) and with the options available via the 5-byte I2C message you can control all sorts of features: mono/stereo, stereo noise reduction, soft mute, full mute, station minimum signal strength to name just a few.
+This simple-to-connect FM module delivers a very nice audio experience (as good as FM quality gets, I think) and with the options available via the 5-byte I2C message you can control all sorts of features: mono/stereo, stereo noise reduction, soft mute, full mute, station minimum signal strength to name just a few. It's really easy to do and a great learning opportunity for those wishing to get into I2C in an easy way.
 
 But this is just the beginning.
 
