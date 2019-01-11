@@ -1,11 +1,11 @@
 # TEA5767 FM Radio module
-## See accompanying video at https://www.youtube.com/ralphbacon video #130
+### See accompanying video at https://www.youtube.com/ralphbacon video #130
 (Direct link to video: https://youtu.be/yWf9uxL6zgE)
 
 ### This video is sponsored by https://www.PCBWay.com - PCB Prototype the Easy Way  
 #### PCBWay will have Chinese New Year's holidays from Jan 30th to Feb 11th 2019.Pls schedule your orders earlier to avoid delay.
 
-**Why Buy Your Printed Circuit Boards From Us?**  
+**Why Buy Your Printed Circuit Boards From PCBWay?**  
   * Prototype Fab with 24 hours Express  
   * Team supported with over 50 professionals & technical  
   * 99% on-Time Shipping with great support from DHL  
@@ -30,7 +30,7 @@ You can listen to this module using earphones without further ado. But how about
 
 All in all this simple FM module will teach you about I2C in a very simple way but will also provide you with a central building block of a much bigger project, should you wish to explore TFT (or touch) screens, Rotary Encoders, Push Switches and Audio Amplifiers. A perfect learning opportunity for beginners to the Arduino, ESP8266 or Raspberry Pi world.
 
-# LINKS
+## LINKS
 Some links _may_ be affiliate links - but their inclusion does not change my editorial content one jot!
 
 Where I got it from:  
