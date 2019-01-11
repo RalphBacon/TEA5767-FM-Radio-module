@@ -121,7 +121,7 @@ void loop() {
 	// We don't need to set buffer[4] (5th byte) as it can be left as all zeroes.
 	// From left (MSB) to right (LSB)
 	// 7 - PLLREF - must be 0 as bit 4 in byte 4 (XTAL) is set to 1.
-	// 6 - DTC - De-emphasis Time Constant must be 0 to indicate 50µS time constant. Might be different in your part of the world!
+	// 6 - DTC - De-emphasis Time Constant must be 0 to indicate 50ÂµS time constant. Might be different in your part of the world!
 	// Equivalent to:
 	// buffer[4] = 0b00000000;
 
@@ -146,5 +146,5 @@ void loop() {
 	Wire.endTransmission();
 
 	// Delay before changing frequency for this demo. You could end the sketch here if you have tuned to a station.
-	delay(2000);
+	delay(2000); 
 }
